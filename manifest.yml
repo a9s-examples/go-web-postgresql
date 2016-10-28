@@ -1,0 +1,13 @@
+---
+applications:
+- name: go-web-pg
+  instances: 1
+  memory: 128M
+  host: go-web-pg
+  buildpack: https://github.com/cloudfoundry/go-buildpack.git
+  domain: apps.pcf1.vs.a9s-ops.de
+  command: go-web
+  services:
+    - pg-small
+  env:
+    GOPACKAGENAME: go-web

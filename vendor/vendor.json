@@ -1,0 +1,31 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "rPRI0+h7jvHTOtdZqpgSxSsUgiU=",
+			"path": "github.com/cloudfoundry-community/go-cfenv",
+			"revision": "c567d77dab8551bc4077e68e5a04415f1d74a911",
+			"revisionTime": "2016-07-25T23:41:13Z"
+		},
+		{
+			"checksumSHA1": "88ochAZ1SsbAH6DgBQ5eTUChFE0=",
+			"path": "github.com/lib/pq",
+			"revision": "ae8357db35d721c58dcdc911318b55bef6b1b001",
+			"revisionTime": "2016-10-14T01:16:34Z"
+		},
+		{
+			"checksumSHA1": "xppHi82MLqVx1eyQmbhTesAEjx8=",
+			"path": "github.com/lib/pq/oid",
+			"revision": "ae8357db35d721c58dcdc911318b55bef6b1b001",
+			"revisionTime": "2016-10-14T01:16:34Z"
+		},
+		{
+			"checksumSHA1": "UuXgD2dDojfS8AViUEe15gLIWZE=",
+			"path": "github.com/mitchellh/mapstructure",
+			"revision": "f3009df150dadf309fdee4a54ed65c124afad715",
+			"revisionTime": "2016-10-20T16:18:36Z"
+		}
+	],
+	"rootPath": "github.com/a9s-examples/go-web-pg"
+}
